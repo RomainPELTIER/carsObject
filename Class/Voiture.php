@@ -1,5 +1,6 @@
 <?php
 abstract class Voiture extends Vehicule {
+
     private $nbPortes;
     private $clim;
     private $siegeChauffant;
@@ -19,6 +20,7 @@ abstract class Voiture extends Vehicule {
         $this->nbPortes = $nbPortes;
         $this->clim = $clim;
         $this->siegeChauffant = $siegeChauffant;
+
         try{
             new VoitureException($this);
         } catch (Exception $exception){

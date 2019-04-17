@@ -1,6 +1,7 @@
 <?php
 abstract class Moto extends Vehicule implements MotoInterface {
 
+
     private $topCase;
     private $nbPlaces;
     private $isJaponnaise;

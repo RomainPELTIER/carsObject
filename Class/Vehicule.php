@@ -14,12 +14,12 @@ abstract class Vehicule implements VehiculeInterface
         echo ('Impossible d\'afficher la valeur');
     }
 
+
     public function __construct($marque, $model, $prix)
     {
         $this->marque = $marque;
         $this->model = $model;
         $this->prix = $prix;
-
     }
 
     /**

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="1598337e-bdcf-4a39-b1ea-b7edb5d671d7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Class/Audi.php" beforeDir="false" afterPath="$PROJECT_DIR$/Class/Audi.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Class/Kawasaki.php" beforeDir="false" afterPath="$PROJECT_DIR$/Class/Kawasaki.php" afterDir="false" />
@@ -9,6 +10,9 @@
       <change beforePath="$PROJECT_DIR$/Class/Voiture.php" beforeDir="false" afterPath="$PROJECT_DIR$/Class/Voiture.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
+=======
+    <list default="true" id="1598337e-bdcf-4a39-b1ea-b7edb5d671d7" name="Default Changelist" comment="" />
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,27 +20,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class/Vehicule.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class/Voiture.php">
+=======
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
@@ -45,19 +39,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class/Moto.php">
+        <entry file="file://$PROJECT_DIR$/include.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            <state relative-caret-position="136">
+              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class/Audi.php">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/Class/Vehicule.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+=======
+        <entry file="file://$PROJECT_DIR$/Exception/MotoException.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/Class/Voiture.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+=======
+        <entry file="file://$PROJECT_DIR$/Class/Honda.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+              <caret line="8" column="72" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -65,8 +82,73 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Class/Kawasaki.php">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exception/KawasakiException.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Interface/MotoInterface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Class/Moto.php">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="187">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+=======
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/Class/Audi.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+=======
+        <entry file="file://$PROJECT_DIR$/Interface/KawasakiInterface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="41" lean-forward="true" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/Class/Kawasaki.php">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
               <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+=======
+        <entry file="file://$PROJECT_DIR$/Interface/HondaInterface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
             </state>
           </provider>
         </entry>
@@ -78,9 +160,12 @@
       <find>set</find>
     </findStrings>
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+=======
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -94,6 +179,7 @@
         <option value="$PROJECT_DIR$/Interface/VehiculeInterface.php" />
         <option value="$PROJECT_DIR$/Interface/HondaInterface.php" />
         <option value="$PROJECT_DIR$/Interface/MotoInterface.php" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Class/Honda.php" />
         <option value="$PROJECT_DIR$/Interface/KawasakiInterface.php" />
         <option value="$PROJECT_DIR$/Exception/MotoException.php" />
@@ -106,25 +192,49 @@
         <option value="$PROJECT_DIR$/Class/Kawasaki.php" />
         <option value="$PROJECT_DIR$/Class/Vehicule.php" />
         <option value="$PROJECT_DIR$/index.php" />
+=======
+        <option value="$PROJECT_DIR$/Class/Vehicule.php" />
+        <option value="$PROJECT_DIR$/Class/Audi.php" />
+        <option value="$PROJECT_DIR$/Class/Honda.php" />
+        <option value="$PROJECT_DIR$/Class/Voiture.php" />
+        <option value="$PROJECT_DIR$/Interface/KawasakiInterface.php" />
+        <option value="$PROJECT_DIR$/Exception/MotoException.php" />
+        <option value="$PROJECT_DIR$/Class/Moto.php" />
+        <option value="$PROJECT_DIR$/Exception/Kawasaki.php" />
+        <option value="$PROJECT_DIR$/Exception/KawasakiException.php" />
+        <option value="$PROJECT_DIR$/include.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/Class/Kawasaki.php" />
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="6">
+=======
+  <component name="ProjectFrameBounds" extendedState="7">
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,6 +261,10 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -188,20 +302,31 @@
       <updated>1555337150697</updated>
       <workItem from="1555337152029" duration="3404000" />
       <workItem from="1555405014048" duration="13157000" />
+<<<<<<< HEAD
       <workItem from="1555444948736" duration="1216000" />
       <workItem from="1555446237862" duration="2066000" />
       <workItem from="1555485225813" duration="4558000" />
+=======
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="24477000" />
+=======
+    <option name="totallyTimeSpent" value="16637000" />
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19213313" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19742814" />
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -248,6 +373,16 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/class/AudiInterface.php" />
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/Interface/VehiculeInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
     <entry file="file://$PROJECT_DIR$/Interface/AudiInterface.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -262,6 +397,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Exception/VehiculeException.php" />
     <entry file="file://$PROJECT_DIR$/Class/Honda.php" />
     <entry file="file://$PROJECT_DIR$/Interface/KawasakiInterface.php">
@@ -301,11 +437,56 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+=======
+    <entry file="file://$PROJECT_DIR$/Exception/VoitureException.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/Vehicule.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exception/VehiculeException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/Voiture.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/Audi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/Moto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/Honda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="72" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="72" />
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exception/MotoException.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="153">
           <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
         </state>
@@ -343,13 +524,64 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+=======
+        <state relative-caret-position="187">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface/HondaInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface/MotoInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface/KawasakiInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="41" lean-forward="true" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/Kawasaki.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exception/KawasakiException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="136">
           <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+=======
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+>>>>>>> d7a0977bd824033bf700c6a17b35636123ccb9af
         </state>
       </provider>
     </entry>

@@ -1,4 +1,5 @@
 <?php
+
 class MotoException extends Exception{
 
     private $allowedMark = ['Kawasaki', 'KTM', 'Yamaha', 'Honda'];
@@ -15,4 +16,5 @@ class MotoException extends Exception{
         }
     }
 }
+
 ?>

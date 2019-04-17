@@ -1,6 +1,6 @@
 <?php
-interface MotoInterface extends VehiculeInterface {
 
+interface MotoInterface extends VehiculeInterface {
     public function getTopCase();
 }
 ?>

@@ -1,4 +1,5 @@
 <?php
+
 class Kawasaki extends Moto implements KawasakiInterface {
     private $isJaponaise;
 
