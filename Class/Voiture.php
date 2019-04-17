@@ -8,6 +8,11 @@ abstract class Voiture extends Vehicule {
         echo ('L\'attribut n\'existe pas ou est privé');
     }
 
+    public function __get($name){
+        echo ('Impossible d\'afficher la valeur');
+    }
+
+
     public function __construct($marque, $model, $prix, $nbPortes, $clim, $siegeChauffant)
     {
         parent::__construct($marque, $model, $prix);

@@ -10,6 +10,10 @@ abstract class Vehicule implements VehiculeInterface
         echo ('L\'attribut n\'existe pas ou est privé');
     }
 
+    public function __get($name){
+        echo ('Impossible d\'afficher la valeur');
+    }
+
     public function __construct($marque, $model, $prix)
     {
         $this->marque = $marque;

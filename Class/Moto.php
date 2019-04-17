@@ -9,6 +9,11 @@ abstract class Moto extends Vehicule implements MotoInterface {
         echo ('L\'attribut n\'existe pas ou est privé');
     }
 
+    public function __get($name){
+        echo ('Impossible d\'afficher la valeur');
+    }
+
+
 
     public function __construct($marque, $model, $prix, $topCase, $isJaponnaise)
     {

@@ -6,6 +6,11 @@ class Kawasaki extends Moto implements KawasakiInterface {
         echo ('L\'attribut n\'existe pas ou est privé');
     }
 
+    public function __get($name){
+        echo ('Impossible d\'afficher la valeur');
+    }
+
+
     public function __construct( $model, $prix, $topCase)
     {
         parent::__construct( "Kawasaki", $model, $prix, $topCase, true);

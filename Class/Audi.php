@@ -6,6 +6,11 @@ class Audi extends Voiture implements AudiInterface {
         echo ('L\'attribut n\'existe pas ou est privé');
     }
 
+    public function __get($name){
+        echo ('Impossible d\'afficher la valeur');
+    }
+
+
     public function __construct( $model, $prix, $nbPortes, $clim, $siegeChauffant, $isQuatro)
     {
         parent::__construct('Audi', $model, $prix, $nbPortes, $clim, $siegeChauffant);
